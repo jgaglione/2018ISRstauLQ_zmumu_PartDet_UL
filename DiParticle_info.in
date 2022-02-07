@@ -69,7 +69,7 @@ CDFzeta2DCutValue         -50.0    1000
 DiscrByDeltaPtDivSumPt     0
 DeltaPtDivSumPtCutValue    0.1  1.0
 
-DiscrByDeltaPt 		   true
+DiscrByDeltaPt 		   false
 DeltaPtCutValue 	   30.0   9999.0
 
 DiscrByCosDphiPtAndMet false     # dPhi between Muon1 and MET
